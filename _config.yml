@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
+title:            Yokhi International
 locale:           en_US
-url:              //mmistakes.github.io/minimal-mistakes
+url:              //aswinic.github.io/minimal-mistakes
+background-image: url('/images/Organic-farming.jpg')
 
 
 # Jekyll configuration
